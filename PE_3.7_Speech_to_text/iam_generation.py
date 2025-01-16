@@ -4,7 +4,7 @@ import jwt  # PyJWT
 import time
 
 # Путь к вашему JSON-файлу ключа сервисного аккаунта
-SERVICE_ACCOUNT_KEY_FILE = "PE_3.7_Speech_to_text/authorized_key.json"
+SERVICE_ACCOUNT_KEY_FILE = "C:/Users/asus/Documents/GitHub/Prompt_Engineering/PE_3.7_Speech_to_text/authorized_key.json"
 
 # Загрузка JSON-файла
 with open(SERVICE_ACCOUNT_KEY_FILE, 'r') as f:

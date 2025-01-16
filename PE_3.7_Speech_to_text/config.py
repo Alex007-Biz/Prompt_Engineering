@@ -1,0 +1,3 @@
+# IAM_token действителен 60 минут!!!
+IAM_token = 't1.9euelZrJjomKz8mNi5WVz4-Snp2Uke3rnpWalJXPx5ycysmRx8mSxpqQm8_l8_c9L1pD-e8zfRhJ_t3z931dV0P57zN9GEn-zef1656Vmp6Yk43LzpaXmY6LyZuajpTP7_zN5_XrnpWanJeSycqZx4-SmMqVjZHPx5bv_cXrnpWanpiTjcvOlpeZjovJm5qOlM8.EVnbGHp17M4YBM9tDoEZ39Y-gPxxHgsdGStgVBxRc5MOA1m7QbsP3iD1fe4ZFl3jhWWiSK9NjKbb30nVvDmXDw'
+
