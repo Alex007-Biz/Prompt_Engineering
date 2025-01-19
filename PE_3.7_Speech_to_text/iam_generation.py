@@ -49,7 +49,7 @@ response = requests.post(url, json={'jwt': jwt_token})
 # Обработка ответа
 if response.status_code == 200:
     iam_token = response.json().get('iamToken')
-    print("IAM токен получен:", iam_token)
+    print("IAM токен получен:\n", iam_token)
 else:
     print("Ошибка при получении IAM токена:", response.status_code, response.text)
 
